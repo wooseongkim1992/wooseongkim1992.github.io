@@ -23,14 +23,14 @@ repository               : "wooseongkim1992/wooseongkim1992.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"   # upload your photo to the images/ folder with this exact name
+  avatar           : "A93C1371-1553-4326-B301-5B301C1B1A2D.jpg"   # upload your photo to the images/ folder with this exact name
   name             : "Wooseong Kim"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher"
+  bio              : "Postdoctoral Research Fellow"
   location         : "Stockholm, Sweden"
-  employer         : "Karolinska Institutet"
+  employer         : "Institute of Environmental Medicine, Karolinska Institutet"
   uri              : # URL
-  email            : # to show your email, write it in quotes right after the colon, e.g.  email : "name@ki.se"
+  email            : "wooseong.kim@ki.se" # to show your email, write it in quotes right after the colon, e.g.  email : "name@ki.se"
 
   # Academic websites
   academia         : # URL
