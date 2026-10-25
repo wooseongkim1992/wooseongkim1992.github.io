@@ -13,6 +13,9 @@ author_profile: true
 
 ## Peer-reviewed articles
 
+<!-- Add the DOI link at the end of this entry once it is available: [[DOI]](https://doi.org/...) -->
+Jonsson, E., **Kim, W.**, Schuring, M., Helgesson, M., Landberg, J., & Thern, E. (Forthcoming). Alcohol disorder diagnosis and subsequent labour market transitions among Swedish workers: A longitudinal register-based study. *Alcohol and Alcoholism*.
+
 **Kim, W.**, Baron, S., Almroth, M., Johansson, G., Bodin, T., Hick, R., & Badarin, K. (2026). Escaping in-work poverty and mental health: A longitudinal study of Swedish workers. *Social Science & Medicine*, 405, 119556. [[DOI]](https://doi.org/10.1016/j.socscimed.2026.119556)
 
 **Kim, W.**, Grotti, R., & Aradhya, S. (2026). Is overqualification a stepping stone for career progression among children of immigrants? *Research in Social Stratification and Mobility*, 104, 101164. [[DOI]](https://doi.org/10.1016/j.rssm.2026.101164)
