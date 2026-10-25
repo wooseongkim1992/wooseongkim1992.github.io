@@ -11,5 +11,8 @@ main:
   - title: "Data & Code"
     url: /datacode/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "CV"
     url: /cv/
