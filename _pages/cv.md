@@ -18,5 +18,5 @@ redirect_from:
 
 ## Education
 
-* PhD in Sociological Demography, Department of Sociology, Stockholm University, 2025<br>Thesis: *Unrealized Potential: Overqualification and Its Consequences Among the Children of Immigrants Born in Sweden*<br>Supervisors: Siddartha Aradhya (main), Sven Drefahl, and Martin Hällsten
+* PhD in Sociological Demography, Department of Sociology, Stockholm University, 2025<br>Thesis: *Unrealized Potential: Overqualification and Its Consequences Among the Children of Immigrants Born in Sweden*<br>Supervisors: [Siddartha Aradhya](https://scholar.google.com/citations?user=wrBdyPwAAAAJ&hl=en) (main), [Sven Drefahl](https://scholar.google.com/citations?user=_OHHW0QAAAAJ&hl=en), and [Martin Hällsten](https://scholar.google.com/citations?user=dtN2PtQAAAAJ&hl=en)
 * Master of Science in Economic Demography, Lund University, 2020<br>Thesis supervisors: Martin Dribe and the late Kirk Scott
