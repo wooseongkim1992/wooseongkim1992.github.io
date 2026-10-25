@@ -7,6 +7,9 @@ author_profile: true
 
 ## Karolinska Institutet
 
+**[Applied Biostatistics](https://education.ki.se/student-at-ki/all-course-and-programme-websites/masters-programme-in-biomedicine/programme-outline-syllabus-4bi21/applied-biostatistics-75-hp)**, Master's Programme in Biomedicine (Master's level, from October 2026)<br>
+Lab teacher: supporting students in R during computer lab sessions and assisting the course leader with grading assignments.
+
 **[Methods for Studying the Distribution of Health](https://education.ki.se/student-at-ki/all-course-and-programme-websites/masters-programme-in-public-health-sciences/methods-for-studying-the-distribution-of-health-75-credits)** (Master's level, Autumn 2024 onwards)<br>
 Co-organized and facilitated a lab session on life tables, guiding students through hands-on demographic analysis.
 
