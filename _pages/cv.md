@@ -7,58 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- Upload your CV as a PDF into the "files" folder with exactly this name: cv_wooseong_kim.pdf -->
+[Download my full CV (PDF)](/files/cv_wooseong_kim.pdf)
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Current positions
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Researcher, Unit of Occupational Medicine, Institute of Environmental Medicine, Karolinska Institutet
+* Affiliated researcher, Stockholm University Demography Unit (SUDA)
+* Associate Editor, *Nordic Journal of Migration Research* (2026–)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<!-- CHECK: add years and exact degree names -->
+* PhD in Social Demography, Stockholm University
+* Master's degree, Lund University
