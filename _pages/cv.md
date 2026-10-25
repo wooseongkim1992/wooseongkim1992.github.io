@@ -19,5 +19,5 @@ redirect_from:
 ## Education
 
 <!-- CHECK: add years and exact degree names -->
-* PhD in Social Demography, Stockholm University
+* PhD in Sociological Demography, Department of Sociology, Stockholm University, 2025<br>Thesis: *Unrealized Potential: Overqualification and Its Consequences Among the Children of Immigrants Born in Sweden*
 * Master's degree, Lund University

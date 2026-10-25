@@ -9,7 +9,7 @@ redirect_from:
 
 Wooseong Kim is a postdoctoral fellow in the *New World of Work* research group (led by Theo Bodin), part of the Unit of Occupational Medicine at the Institute of Environmental Medicine, [Karolinska Institutet](https://ki.se). His current research focuses on (1) how adverse life events shape individuals' health and labour market outcomes, and how these effects differ between standard and non-standard employees in Sweden, and (2) how in-work poverty affects the mental and physical health of Swedish workers.
 
-He holds a PhD in Sociological Demography from Stockholm University, where he remains affiliated as a researcher at the Stockholm University Demography Unit (SUDA), Department of Sociology. He also holds a master's degree from Lund University.
+He holds a PhD in Sociological Demography from Stockholm University, where he remains affiliated as a researcher at the Stockholm University Demography Unit (SUDA), Department of Sociology. His doctoral thesis, *Unrealized Potential: Overqualification and Its Consequences Among the Children of Immigrants Born in Sweden* (2025), examines the labour market integration of the second-generation children of immigrants in Sweden.
 
 He currently serves as a board member of the Swedish Demographic Association (Svensk Demografisk Förening, SDF) and as an associate editor of the *Nordic Journal of Migration Research* (NJMR). He also reviews for journals including *Advances in Life Course Research*, *BMC Public Health*, *Demographic Research*, *European Sociological Review*, *Genus*, *International Migration Review*, *Journal of Ethnic and Migration Studies*, *Research in Social Stratification and Mobility*, and *Social Forces*.
 
