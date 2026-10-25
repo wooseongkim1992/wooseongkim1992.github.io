@@ -13,5 +13,5 @@ author_profile: true
 ## Research grants
 
 **Mental health and early career labor market integration among the Swedish-born children of migrants**<br>
-Swedish Research Council (Vetenskapsrådet), 2026–2028. [[Project page]](https://www.vr.se/swecris.html#/project/2025-01645_VR)<br>
+Swedish Research Council (Vetenskapsrådet), 2026–2028. Co-applicant (PI: [Siddartha Aradhya](https://scholar.google.com/citations?user=wrBdyPwAAAAJ&hl=en)). [[Project page]](https://www.vr.se/swecris.html#/project/2025-01645_VR)<br>
 This project studies how adolescent mental health problems shape the school-to-work transitions of Swedish-born children of immigrants, and how early labour market disadvantages in turn affect their mental health, compared with children of Swedish-born parents. It follows people born 1989–1997 from age 16 to 36 using Swedish population register data.
