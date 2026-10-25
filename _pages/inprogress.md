@@ -12,8 +12,6 @@ author_profile: true
 
 ## Under review
 
-**Kim, W.** Overqualified, still satisfied? [Rest of title and coauthors]
-
 **Kim, W.**, [coauthors]. Unemployment, nonstandard employment, and common mental disorders in the Swedish working population. [Working title]
 
 ## Work in progress
