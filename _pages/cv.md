@@ -18,6 +18,5 @@ redirect_from:
 
 ## Education
 
-<!-- CHECK: add years and exact degree names -->
 * PhD in Sociological Demography, Department of Sociology, Stockholm University, 2025<br>Thesis: *Unrealized Potential: Overqualification and Its Consequences Among the Children of Immigrants Born in Sweden*
-* Master's degree, Lund University
+* Master of Science in Economic Demography, Lund University, 2020<br>Thesis supervisors: Martin Dribe and the late Kirk Scott
