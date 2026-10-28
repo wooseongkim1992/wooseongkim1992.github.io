@@ -32,6 +32,12 @@ Carlsson, E., & **Kim, W.** (2026). Does depression matter for fertility intenti
 
 Trappolini, E., & **Kim, W.** (2025). Overqualification and job/wage satisfaction among migrants: Insights from Italy. In *Italian Statistical Society Series on Advances in Statistics* (pp. 432–436). Springer. [[DOI]](https://doi.org/10.1007/978-3-031-96033-8_70)
 
+## Working papers
+
+Carlsson, E., & **Kim, W.** (2024). Do depression and loneliness affect fertility intentions and their realisation? Evidence from Norway and Sweden. *Stockholm Research Reports in Demography*. [[DOI]](https://doi.org/10.17045/STHLMUNI.25153211.V1)
+
+**Kim, W.**, Lai, W., & Neyer, G. (2024). Growing significance of employment uncertainty on fertility intention in Sweden: Results from the Generations and Gender Surveys. *Stockholm Research Reports in Demography*. [[DOI]](https://doi.org/10.17045/STHLMUNI.26088205.V1)
+
 <!--
   TEMPLATE — copy this for each further paper:
 
