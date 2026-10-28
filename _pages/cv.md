@@ -12,7 +12,7 @@ redirect_from:
 
 ## Current positions
 
-* Postdoctoral Researcher, Unit of Occupational Medicine, Institute of Environmental Medicine, Karolinska Institutet
+* Postdoctoral Researcher, Unit of Occupational Medicine, Institute of Environmental Medicine, Karolinska Institutet (Supervisor: [Theo Bodin](https://scholar.google.com/citations?user=qDjUGgkAAAAJ&hl=en))
 * Affiliated researcher, Stockholm University Demography Unit (SUDA)
 * Associate Editor, *Nordic Journal of Migration Research* (2026–)
 
