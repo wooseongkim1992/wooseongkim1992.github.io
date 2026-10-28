@@ -14,3 +14,7 @@ author_profile: true
 **Kim, W.**, Norlinder, N., Thern, E., Kvart, S., Albin, M., Bodin, T., & Mangot-Sala, L. Beyond job loss: How previous employment conditions shape the mental health impact of unemployment.
 
 **Kim, W.**, Baron, S., Almroth, M., Johansson, G., Bodin, T., Hick, R., & Badarin, K. In-work poverty and incident myocardial infarction and stroke: A register-based cohort study of the Swedish working-age population.
+
+## Work in progress
+
+**Kim, W.**, Lai, W., & Neyer, G. Which uncertainty matters? Employment uncertainty, fertility intention, and intention realization among Swedish employees.
