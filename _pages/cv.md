@@ -19,5 +19,6 @@ redirect_from:
 ## Education
 
 * PhD in Sociological Demography, Department of Sociology, Stockholm University, 2025<br>Thesis: *Unrealized Potential: Overqualification and Its Consequences Among the Children of Immigrants Born in Sweden*<br>Supervisors: [Siddartha Aradhya](https://scholar.google.com/citations?user=wrBdyPwAAAAJ&hl=en) (main), [Sven Drefahl](https://scholar.google.com/citations?user=_OHHW0QAAAAJ&hl=en), and [Martin Hällsten](https://scholar.google.com/citations?user=dtN2PtQAAAAJ&hl=en)
+* SINGS – Swedish Interdisciplinary Graduate School in Register-based Research, Karolinska Institutet, 2023
 * Master of Science in Economic Demography, Lund University, 2020<br>Thesis supervisors: [Martin Dribe](https://scholar.google.com/citations?user=J7ip050AAAAJ&hl=en) and the late [Kirk Scott](https://scholar.google.com/citations?user=wQ64wgIAAAAJ&hl=en)
 * Bachelor of Arts in Economics and Communication Studies (dual degree), Seoul National University, South Korea, 2018<br>*Summa Cum Laude*
