@@ -30,6 +30,8 @@ Carlsson, E., & **Kim, W.** (2026). Does depression matter for fertility intenti
 
 ## Book chapters and proceedings
 
+Grotti, R., **Kim, W.**, & Aradhya, S. (In press). Sovraqualificazione e progressione di carriera: Un trampolino di lancio per i nuovi entranti nel mercato del lavoro in Svezia? In M. Triventi & G. Salza (Eds.), *Disuguaglianze di istruzione: Tendenze, meccanismi e conseguenze*. il Mulino.
+
 Trappolini, E., & **Kim, W.** (2025). Overqualification and job/wage satisfaction among migrants: Insights from Italy. In *Italian Statistical Society Series on Advances in Statistics* (pp. 432–436). Springer. [[DOI]](https://doi.org/10.1007/978-3-031-96033-8_70)
 
 ## Working papers
